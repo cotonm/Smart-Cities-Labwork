@@ -1,4 +1,5 @@
-# building-energy-model
+# Modeling and Understanding Heat Transfers in a Two Zone Building
+
 Simulation dynamique thermique d’un bâtiment à deux zones
 
 Names : Coton Mathieu, Couallier Léo, Dupuy Léopold, DeStExupéry Aubin
